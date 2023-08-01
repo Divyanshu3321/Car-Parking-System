@@ -1,2 +1,2 @@
 # Project--Car-Parking-System
-Python GUI Application of Car Parking Using Tkinter and MySql. 
+Car Parking Python GUI Application Using Tkinter and MySql.
