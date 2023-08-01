@@ -1,4 +1,4 @@
-# Project--Car-Parking-System
+# Project--Car Parking System
 Car Parking Python GUI Application Using Tkinter and MySql
 
 1) carparkingsystem.rar - Includes all Database Tables.
